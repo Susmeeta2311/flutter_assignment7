@@ -14,9 +14,9 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           title: const Text('My First Flutter App'),
         ),
-        body: const Center(
+        body: const center(
           child: Text(
-            'Your Name Here', // Replace with your name
+            'Susmeeta Mesta..!', // Replace with your name
           ),
         ),
       ),
